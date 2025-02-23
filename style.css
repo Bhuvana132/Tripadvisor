@@ -802,9 +802,9 @@ body{
     .sale-image__offer{
         position: absolute;
         font-size: 10px;
-        width: 180px;
-        bottom: 50%;
-        left: 7%;
+        width: 100px;
+        bottom: 45%;
+        left: 45% ;
     }
     .sale-image__offer h1{
            font-size: 14px;
@@ -813,11 +813,11 @@ body{
         font-size: 9px;
     }
     .sale-image__offer button{
-        width: 100px;
+        width: 65px;
         height: 20px;
         margin-left: 5px;
         margin-top: 10px;
-        font-size: 9px;
+        font-size: 7px;
     }
 
     .top-destination{
